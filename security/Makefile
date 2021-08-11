@@ -11,8 +11,6 @@ subdir-$(CONFIG_SECURITY_APPARMOR)	+= apparmor
 subdir-$(CONFIG_SECURITY_YAMA)		+= yama
 subdir-$(CONFIG_SECURITY_LOADPIN)	+= loadpin
 subdir-$(CONFIG_ARCH_QCOM)		+= pfe
-subdir-$(CONFIG_SECURITY_DEFEX)		+= samsung/defex_lsm
-subdir-$(CONFIG_SECURITY_DSMS)		+= samsung/dsms
 
 # always enable default capabilities
 obj-y					+= commoncap.o
@@ -30,8 +28,6 @@ obj-$(CONFIG_SECURITY_YAMA)		+= yama/
 obj-$(CONFIG_SECURITY_LOADPIN)		+= loadpin/
 obj-$(CONFIG_CGROUP_DEVICE)		+= device_cgroup.o
 obj-$(CONFIG_ARCH_QCOM)			+= pfe/
-obj-$(CONFIG_SECURITY_DEFEX)		+= samsung/defex_lsm/built-in.a
-obj-$(CONFIG_SECURITY_DSMS)		+= samsung/dsms/
 
 # Object integrity file lists
 subdir-$(CONFIG_INTEGRITY)		+= integrity
@@ -39,10 +35,6 @@ obj-$(CONFIG_INTEGRITY)			+= integrity/
 
 # MST driver
 obj-$(CONFIG_MST_LDO)	  += mstdrv/
-
-# FIVE
-subdir-$(CONFIG_FIVE)			+= samsung/five
-obj-$(CONFIG_FIVE)			+= samsung/five/
 
 # PROCA module
 subdir-$(CONFIG_PROCA)		+= proca
