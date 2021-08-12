@@ -25,9 +25,9 @@ $(eval $(call sec_dtbo_build, \
 
 endif
 
+dts-dirs				+= gts7l
 
-
-always          := $(dtb-y)
 subdir-y        := $(dts-dirs)
+always          := $(dtb-y) $(dtbo-y)
 
-clean-files := *.dtb *.reverse.dts *.dtbo
+clean-files := *.dtb* *.reverse.dts
