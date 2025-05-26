@@ -1,0 +1,48 @@
+!<thin>
+//                                              476       `
+hdmi.o/
+logo/logo.o/
+logo/logo_linux_clut224.o/
+backlight/lcd.o/
+backlight/backlight.o/
+backlight/generic_bl.o/
+backlight/qcom-spmi-wled.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/amba-clcd.o/
+display_timing.o/
+videomode.o/
+of_display_timing.o/
+of_videomode.o/
+/0              0           0     0     644     128464    `
+/8              0           0     0     644     58184     `
+/21             0           0     0     644     10856     `
+/48             0           0     0     644     179768    `
+/65             0           0     0     644     229392    `
+/88             0           0     0     644     166712    `
+/112            0           0     0     644     317400    `
+/140            0           0     0     644     11848     `
+/165            0           0     0     644     132216    `
+/189            0           0     0     644     387248    `
+/209            0           0     0     644     219120    `
+/229            0           0     0     644     184752    `
+/250            0           0     0     644     187352    `
+/272            0           0     0     644     207608    `
+/293            0           0     0     644     18800     `
+/313            0           0     0     644     203576    `
+/339            0           0     0     644     223888    `
+/365            0           0     0     644     168200    `
+/389            0           0     0     644     263600    `
+/408            0           0     0     644     7288      `
+/426            0           0     0     644     9920      `
+/439            0           0     0     644     71760     `
+/460            0           0     0     644     52912     `

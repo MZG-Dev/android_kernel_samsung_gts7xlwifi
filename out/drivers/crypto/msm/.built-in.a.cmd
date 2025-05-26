@@ -1,0 +1,1 @@
+cmd_drivers/crypto/msm/built-in.a :=  rm -f drivers/crypto/msm/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/crypto/msm/built-in.a drivers/crypto/msm/qce50.o drivers/crypto/msm/qcedev.o drivers/crypto/msm/qcedev_smmu.o drivers/crypto/msm/qcrypto.o drivers/crypto/msm/ice.o

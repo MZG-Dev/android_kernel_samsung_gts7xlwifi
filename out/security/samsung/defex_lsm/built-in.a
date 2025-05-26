@@ -1,0 +1,32 @@
+!<thin>
+//                                              250       `
+defex_lsm.o/
+defex_common.o/
+defex_catch_list.o/
+defex_ht.o/
+defex_config.o/
+defex_sysfs.o/
+defex_procs.o/
+defex_rules.o/
+defex_catch_list_compat.o/
+defex_priv.o/
+defex_safeplace.o/
+defex_immutable.o/
+defex_caches.o/
+cert/defex_cert.o/
+defex_sign.o/
+/0              0           0     0     644     183232    `
+/13             0           0     0     644     120536    `
+/29             0           0     0     644     19000     `
+/49             0           0     0     644     147296    `
+/61             0           0     0     644     3520      `
+/77             0           0     0     644     216136    `
+/92             0           0     0     644     233384    `
+/107            0           0     0     644     3440      `
+/122            0           0     0     644     19896     `
+/149            0           0     0     644     101608    `
+/163            0           0     0     644     101632    `
+/182            0           0     0     644     101632    `
+/201            0           0     0     644     100024    `
+/217            0           0     0     644     2072      `
+/236            0           0     0     644     71792     `

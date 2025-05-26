@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/built-in.a :=  rm -f net/bridge/netfilter/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD net/bridge/netfilter/built-in.a net/bridge/netfilter/ebtables.o net/bridge/netfilter/ebtable_broute.o

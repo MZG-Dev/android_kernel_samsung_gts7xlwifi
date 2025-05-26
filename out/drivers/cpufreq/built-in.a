@@ -1,0 +1,26 @@
+!<thin>
+//                                              236       `
+cpufreq.o/
+freq_table.o/
+cpufreq_times.o/
+cpufreq_limit.o/
+cpufreq_performance.o/
+cpufreq_powersave.o/
+cpufreq_userspace.o/
+cpufreq_ondemand.o/
+cpufreq_conservative.o/
+cpufreq_governor.o/
+cpufreq_governor_attr_set.o/
+qcom-cpufreq-hw.o/
+/0              0           0     0     644     510496    `
+/11             0           0     0     644     83704     `
+/25             0           0     0     644     174896    `
+/42             0           0     0     644     239736    `
+/59             0           0     0     644     61400     `
+/82             0           0     0     644     60712     `
+/103            0           0     0     644     70288     `
+/124            0           0     0     644     136280    `
+/144            0           0     0     644     88280     `
+/168            0           0     0     644     107120    `
+/188            0           0     0     644     58200     `
+/217            0           0     0     644     325240    `

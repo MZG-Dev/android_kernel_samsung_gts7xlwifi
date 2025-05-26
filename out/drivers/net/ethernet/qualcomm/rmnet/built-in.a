@@ -1,0 +1,41 @@
+!<thin>
+//                                              408       `
+rmnet_data_pm_argos.o/
+rmnet_config.o/
+rmnet_vnd.o/
+rmnet_handlers.o/
+rmnet_map_data.o/
+rmnet_map_command.o/
+rmnet_descriptor.o/
+rmnet_genl.o/
+shs/rmnet_shs_config.o/
+shs/rmnet_shs_main.o/
+shs/rmnet_shs_wq.o/
+shs/rmnet_shs_freq.o/
+shs/rmnet_shs_wq_mem.o/
+shs/rmnet_shs_wq_genl.o/
+perf/rmnet_perf_config.o/
+perf/rmnet_perf_core.o/
+perf/rmnet_perf_opt.o/
+perf/rmnet_perf_tcp_opt.o/
+perf/rmnet_perf_udp_opt.o/
+
+/0              0           0     0     644     282632    `
+/23             0           0     0     644     400704    `
+/39             0           0     0     644     279936    `
+/52             0           0     0     644     504744    `
+/70             0           0     0     644     434104    `
+/88             0           0     0     644     279792    `
+/109            0           0     0     644     437136    `
+/129            0           0     0     644     320128    `
+/143            0           0     0     644     278360    `
+/167            0           0     0     644     567912    `
+/189            0           0     0     644     564600    `
+/209            0           0     0     644     265960    `
+/231            0           0     0     644     298064    `
+/255            0           0     0     644     338968    `
+/280            0           0     0     644     283104    `
+/306            0           0     0     644     398848    `
+/330            0           0     0     644     364016    `
+/353            0           0     0     644     322296    `
+/380            0           0     0     644     313560    `

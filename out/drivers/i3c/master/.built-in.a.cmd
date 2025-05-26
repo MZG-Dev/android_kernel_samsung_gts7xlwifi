@@ -1,0 +1,1 @@
+cmd_drivers/i3c/master/built-in.a :=  rm -f drivers/i3c/master/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/i3c/master/built-in.a drivers/i3c/master/i3c-master-qcom-geni.o

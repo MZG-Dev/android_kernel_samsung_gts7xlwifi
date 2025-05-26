@@ -1,0 +1,1 @@
+cmd_techpack/audio/built-in.a :=  rm -f techpack/audio/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD techpack/audio/built-in.a techpack/audio/soc/built-in.a techpack/audio/dsp/built-in.a techpack/audio/ipc/built-in.a techpack/audio/asoc/built-in.a

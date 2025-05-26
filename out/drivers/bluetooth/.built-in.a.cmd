@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.a :=  rm -f drivers/bluetooth/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/bluetooth/built-in.a drivers/bluetooth/bluetooth-power.o drivers/bluetooth/btfm_slim.o drivers/bluetooth/btfm_slim_codec.o drivers/bluetooth/btfm_slim_slave.o

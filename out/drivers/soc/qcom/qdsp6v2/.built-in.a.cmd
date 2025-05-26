@@ -1,0 +1,1 @@
+cmd_drivers/soc/qcom/qdsp6v2/built-in.a :=  rm -f drivers/soc/qcom/qdsp6v2/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/soc/qcom/qdsp6v2/built-in.a drivers/soc/qcom/qdsp6v2/cdsp-loader.o

@@ -1,0 +1,1 @@
+cmd_security/pfe/built-in.a :=  rm -f security/pfe/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD security/pfe/built-in.a security/pfe/pfk.o security/pfe/pfk_kc.o security/pfe/pfk_ice.o security/pfe/pfk_ext4.o security/pfe/pfk_f2fs.o

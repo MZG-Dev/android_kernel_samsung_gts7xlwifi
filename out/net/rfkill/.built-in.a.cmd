@@ -1,0 +1,1 @@
+cmd_net/rfkill/built-in.a :=  rm -f net/rfkill/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD net/rfkill/built-in.a net/rfkill/core.o

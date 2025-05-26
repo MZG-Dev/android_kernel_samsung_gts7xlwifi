@@ -1,0 +1,1 @@
+cmd_net/llc/built-in.a :=  rm -f net/llc/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD net/llc/built-in.a net/llc/llc_core.o net/llc/llc_input.o net/llc/llc_output.o

@@ -1,0 +1,1 @@
+cmd_drivers/spmi/built-in.a :=  rm -f drivers/spmi/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/spmi/built-in.a drivers/spmi/spmi.o drivers/spmi/spmi-pmic-arb.o drivers/spmi/spmi-pmic-arb-debug.o

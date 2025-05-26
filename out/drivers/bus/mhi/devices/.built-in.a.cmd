@@ -1,0 +1,1 @@
+cmd_drivers/bus/mhi/devices/built-in.a :=  rm -f drivers/bus/mhi/devices/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/bus/mhi/devices/built-in.a drivers/bus/mhi/devices/mhi_netdev.o drivers/bus/mhi/devices/mhi_uci.o drivers/bus/mhi/devices/mhi_satellite.o

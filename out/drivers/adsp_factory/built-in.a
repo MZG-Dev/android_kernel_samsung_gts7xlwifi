@@ -1,0 +1,16 @@
+!<thin>
+//                                              116       `
+adsp_factory.o/
+ssc_core.o/
+lsm6dso_accel.o/
+lsm6dso_gyro.o/
+ak09918_mag.o/
+veml3xxx_light.o/
+veml3xxx_sub_light.o/
+/0              0           0     0     644     329152    `
+/16             0           0     0     644     208016    `
+/28             0           0     0     644     199544    `
+/45             0           0     0     644     140560    `
+/61             0           0     0     644     145176    `
+/76             0           0     0     644     135376    `
+/94             0           0     0     644     132784    `

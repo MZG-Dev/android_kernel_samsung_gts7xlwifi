@@ -1,0 +1,28 @@
+!<thin>
+//                                              302       `
+icp_hw/icp_hw_mgr/cam_icp_hw_mgr.o/
+icp_hw/a5_hw/a5_dev.o/
+icp_hw/a5_hw/a5_core.o/
+icp_hw/a5_hw/a5_soc.o/
+icp_hw/ipe_hw/ipe_dev.o/
+icp_hw/ipe_hw/ipe_core.o/
+icp_hw/ipe_hw/ipe_soc.o/
+icp_hw/bps_hw/bps_dev.o/
+icp_hw/bps_hw/bps_core.o/
+icp_hw/bps_hw/bps_soc.o/
+cam_icp_subdev.o/
+cam_icp_context.o/
+hfi.o/
+/0              0           0     0     644     491304    `
+/36             0           0     0     644     164528    `
+/59             0           0     0     644     159208    `
+/83             0           0     0     644     139256    `
+/106            0           0     0     644     158832    `
+/131            0           0     0     644     154192    `
+/157            0           0     0     644     131160    `
+/182            0           0     0     644     158688    `
+/207            0           0     0     644     154728    `
+/233            0           0     0     644     131200    `
+/258            0           0     0     644     234840    `
+/276            0           0     0     644     179744    `
+/295            0           0     0     644     143296    `
