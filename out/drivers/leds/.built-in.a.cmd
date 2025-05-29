@@ -1,1 +1,0 @@
-cmd_drivers/leds/built-in.a :=  rm -f drivers/leds/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/leds/built-in.a drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/led-triggers.o drivers/leds/leds-qti-tri-led.o drivers/leds/leds-qpnp-flash-v2.o drivers/leds/trigger/built-in.a

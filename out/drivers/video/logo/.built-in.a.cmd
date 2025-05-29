@@ -1,1 +1,0 @@
-cmd_drivers/video/logo/built-in.a :=  rm -f drivers/video/logo/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/video/logo/built-in.a drivers/video/logo/logo.o drivers/video/logo/logo_linux_clut224.o

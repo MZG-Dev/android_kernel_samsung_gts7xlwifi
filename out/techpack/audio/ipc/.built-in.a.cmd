@@ -1,1 +1,0 @@
-cmd_techpack/audio/ipc/built-in.a :=  rm -f techpack/audio/ipc/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD techpack/audio/ipc/built-in.a techpack/audio/ipc/apr.o techpack/audio/ipc/apr_v2.o techpack/audio/ipc/apr_tal_rpmsg.o

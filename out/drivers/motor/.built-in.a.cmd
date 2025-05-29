@@ -1,1 +1,0 @@
-cmd_drivers/motor/built-in.a :=  rm -f drivers/motor/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/motor/built-in.a drivers/motor/msm_vibrator.o drivers/motor/vib_notifier.o

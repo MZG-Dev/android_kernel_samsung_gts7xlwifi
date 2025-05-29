@@ -1,1 +1,0 @@
-cmd_drivers/media/platform/msm/built-in.a :=  rm -f drivers/media/platform/msm/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/media/platform/msm/built-in.a drivers/media/platform/msm/cvp/built-in.a drivers/media/platform/msm/npu/built-in.a drivers/media/platform/msm/synx/built-in.a

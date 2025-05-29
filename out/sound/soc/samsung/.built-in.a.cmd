@@ -1,1 +1,0 @@
-cmd_sound/soc/samsung/built-in.a :=  rm -f sound/soc/samsung/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD sound/soc/samsung/built-in.a sound/soc/samsung/sec_audio_sysfs.o sound/soc/samsung/bigdata_cirrus_sysfs_cb.o

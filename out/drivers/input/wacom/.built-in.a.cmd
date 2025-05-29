@@ -1,1 +1,0 @@
-cmd_drivers/input/wacom/built-in.a :=  rm -f drivers/input/wacom/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/input/wacom/built-in.a drivers/input/wacom/wacom_i2c.o drivers/input/wacom/wacom_i2c_sec.o drivers/input/wacom/wacom_i2c_elec.o drivers/input/wacom/w9020_flash.o

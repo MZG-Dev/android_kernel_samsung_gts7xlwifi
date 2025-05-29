@@ -1,1 +1,0 @@
-cmd_drivers/bus/built-in.a :=  rm -f drivers/bus/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/bus/built-in.a drivers/bus/qcom-ebi2.o drivers/bus/mhi/built-in.a

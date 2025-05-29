@@ -1,1 +1,0 @@
-cmd_drivers/uh/built-in.a :=  rm -f drivers/uh/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/uh/built-in.a drivers/uh/uh_debug_log.o

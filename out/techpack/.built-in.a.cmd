@@ -1,1 +1,0 @@
-cmd_techpack/built-in.a :=  rm -f techpack/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD techpack/built-in.a techpack/stub/built-in.a techpack/display/built-in.a techpack/video/built-in.a techpack/audio/built-in.a techpack/camera/built-in.a

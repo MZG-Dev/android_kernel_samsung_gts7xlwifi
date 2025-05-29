@@ -1,1 +1,0 @@
-cmd_drivers/usb/pd/built-in.a :=  rm -f drivers/usb/pd/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/usb/pd/built-in.a drivers/usb/pd/policy_engine.o drivers/usb/pd/qpnp-pdphy.o

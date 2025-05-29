@@ -1,1 +1,0 @@
-cmd_sound/soc/codecs/built-in.a :=  rm -f sound/soc/codecs/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD sound/soc/codecs/built-in.a sound/soc/codecs/cs35l41.o sound/soc/codecs/hdmi-codec.o sound/soc/codecs/wm_adsp.o

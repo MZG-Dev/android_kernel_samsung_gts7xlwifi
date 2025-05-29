@@ -1,1 +1,0 @@
-cmd_kernel/ftt/built-in.a :=  rm -f kernel/ftt/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD kernel/ftt/built-in.a kernel/ftt/ftt.o kernel/ftt/ftt_rwsem.o kernel/ftt/ftt_mutex.o

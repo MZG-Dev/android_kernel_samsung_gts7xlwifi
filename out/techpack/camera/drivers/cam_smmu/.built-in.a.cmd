@@ -1,1 +1,0 @@
-cmd_techpack/camera/drivers/cam_smmu/built-in.a :=  rm -f techpack/camera/drivers/cam_smmu/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD techpack/camera/drivers/cam_smmu/built-in.a techpack/camera/drivers/cam_smmu/cam_smmu_api.o

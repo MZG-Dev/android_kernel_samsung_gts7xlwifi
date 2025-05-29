@@ -1,1 +1,0 @@
-cmd_drivers/rpmsg/built-in.a :=  rm -f drivers/rpmsg/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/rpmsg/built-in.a drivers/rpmsg/rpmsg_core.o drivers/rpmsg/rpmsg_char.o drivers/rpmsg/qcom_glink_native.o drivers/rpmsg/qcom_glink_smem.o drivers/rpmsg/qcom_glink_spss.o

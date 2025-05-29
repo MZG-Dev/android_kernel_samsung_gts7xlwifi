@@ -1,1 +1,0 @@
-cmd_drivers/input/misc/built-in.a :=  rm -f drivers/input/misc/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/input/misc/built-in.a drivers/input/misc/qpnp-power-on.o drivers/input/misc/qti-haptics.o drivers/input/misc/uinput.o

@@ -1,1 +1,0 @@
-cmd_mm/sec_mm/built-in.a :=  rm -f mm/sec_mm/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD mm/sec_mm/built-in.a mm/sec_mm/sec_mm_init.o mm/sec_mm/lowfile_detect.o mm/sec_mm/show_mem.o

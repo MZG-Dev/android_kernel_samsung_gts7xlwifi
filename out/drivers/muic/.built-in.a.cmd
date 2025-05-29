@@ -1,1 +1,0 @@
-cmd_drivers/muic/built-in.a :=  rm -f drivers/muic/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/muic/built-in.a drivers/muic/muic-core.o drivers/muic/muic_notifier.o drivers/muic/max77705-muic.o drivers/muic/max77705-muic-afc.o drivers/muic/max77705-muic-ccic.o

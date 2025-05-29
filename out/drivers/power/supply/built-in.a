@@ -1,8 +1,0 @@
-!<thin>
-//                                              64        `
-power_supply_core.o/
-power_supply_sysfs.o/
-power_supply_leds.o/
-/0              0           0     0     644     219448    `
-/21             0           0     0     644     127616    `
-/43             0           0     0     644     86952     `

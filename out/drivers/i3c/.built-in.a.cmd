@@ -1,1 +1,0 @@
-cmd_drivers/i3c/built-in.a :=  rm -f drivers/i3c/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/i3c/built-in.a drivers/i3c/device.o drivers/i3c/master.o drivers/i3c/master/built-in.a

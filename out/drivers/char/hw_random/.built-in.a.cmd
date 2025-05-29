@@ -1,1 +1,0 @@
-cmd_drivers/char/hw_random/built-in.a :=  rm -f drivers/char/hw_random/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/char/hw_random/built-in.a drivers/char/hw_random/core.o drivers/char/hw_random/msm_rng.o drivers/char/hw_random/cavium-rng.o drivers/char/hw_random/cavium-rng-vf.o

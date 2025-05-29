@@ -1,1 +1,0 @@
-cmd_drivers/fingerprint/built-in.a :=  rm -f drivers/fingerprint/built-in.a; /home/mzg/toolchains/gcc/arm-gnu-toolchain-14.2.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar rcSTPD drivers/fingerprint/built-in.a drivers/fingerprint/fingerprint_sysfs.o drivers/fingerprint/gw9558x_common.o drivers/fingerprint/gw9558x_platform.o drivers/fingerprint/gw9558x_spidev.o

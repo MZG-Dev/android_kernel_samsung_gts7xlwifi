@@ -1,0 +1,13 @@
+# Build-Verzeichnisse
+build/
+out/
+
+# Python Cache
+*.pyc
+__pycache__/
+scripts/**/__pycache__/
+
+# Allgemeine temporäre Dateien
+*.log
+*.tmp
+*~
